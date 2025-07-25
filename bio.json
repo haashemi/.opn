@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "name": "Ali Hashemi",
+  "description": "Golang Developer",
+  "socials": [
+    {
+      "title": "Website",
+      "url": "https://haashemi.dev"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/haashemi"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/haashemi"
+    },
+    {
+      "title": "Telegram",
+      "url": "https://t.me/Byfron"
+    }
+  ],
+  "sections": [
+    {
+      "title": "About",
+      "content": "A Back-end developer who is passionate about developing internal, single-purpose, security-critical REST APIs."
+    },
+    {
+      "title": "Projects",
+      "items": [
+        {
+          "title": "TGO",
+          "description": "🤖 A Powerful Telegram bot api framework in Go.",
+          "url": "https://github.com/haashemi/tgo"
+        },
+        {
+          "title": "Writer",
+          "description": "✍️ A simple text-on-image writing package for Go.",
+          "url": "https://github.com/haashemi/writer"
+        },
+        {
+          "title": "Painter",
+          "description": "🎨 A simple but powerful NRGBA image drawing package for Go.",
+          "url": "https://github.com/haashemi/painter"
+        }
+      ]
+    },
+    {
+      "title": "Experiences",
+      "items": [
+        {
+          "title": "Freelance",
+          "description": "Software Engineer",
+          "url": "https://haashemi.dev/cv/freelance",
+          "date": "June 2024 - Present"
+        },
+        {
+          "title": "Epic Center",
+          "description": "Full-Stack Developer",
+          "url": "https://haashemi.dev/cv/epic-center",
+          "date": "Aug 2022 - Present"
+        },
+        {
+          "title": "LlamaNite",
+          "description": "Back End Developer",
+          "url": "https://haashemi.dev/cv/llamanite",
+          "date": "Jan 2021 - Aug 2022 (1 yr 8 mos)"
+        }
+      ]
+    }
+  ]
+}
