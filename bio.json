@@ -2,31 +2,37 @@
   "version": 1,
   "name": "Ali Hashemi",
   "description": "Golang Developer",
-  "socials": [
-    {
-      "title": "Website",
-      "url": "https://haashemi.dev"
-    },
-    {
-      "title": "GitHub",
-      "url": "https://github.com/haashemi"
-    },
-    {
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/in/haashemi"
-    },
-    {
-      "title": "Telegram",
-      "url": "https://t.me/Byfron"
-    }
-  ],
   "sections": [
     {
       "title": "About",
+      "type": "text",
       "content": "A Back-end developer who is passionate about developing internal, single-purpose, security-critical REST APIs."
     },
     {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Website",
+          "url": "https://haashemi.dev"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/haashemi"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/haashemi"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/Byfron"
+        }
+      ]
+    },
+    {
       "title": "Projects",
+      "type": "list",
       "items": [
         {
           "title": "TGO",
@@ -47,6 +53,7 @@
     },
     {
       "title": "Experiences",
+      "type": "list",
       "items": [
         {
           "title": "Freelance",
